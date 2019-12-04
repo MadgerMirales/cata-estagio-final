@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "839145447063",
+    "firebase_url": "https://cata-estagio-410ab.firebaseio.com",
+    "project_id": "cata-estagio-410ab",
+    "storage_bucket": "cata-estagio-410ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839145447063:android:e6c6df422819b79932d3d2",
+        "android_client_info": {
+          "package_name": "com.example.cata_estagio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839145447063-v4pvscstud9l951j2ket0m5fr12is1pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV2dAmfgnCOHCRlSXwrBNqQxMq82xO1NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839145447063-v4pvscstud9l951j2ket0m5fr12is1pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
